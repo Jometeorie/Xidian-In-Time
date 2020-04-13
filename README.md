@@ -11,18 +11,18 @@
 ## Demo
 ### 批量素材生成
 目前需要将生成的批量素材以如下两种格式放入Excel表格中，并运行process_excel.py生成批量图片，并可以运行generate_json.py文件将生成的素材按年代和种类分类保存在生成素材中。Excel格式如下：
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/素材生成Excel.png)
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/素材生成Excel2.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/素材生成Excel.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/素材生成Excel2.png)
 
 最终生成素材图片如下：
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/ID1001_Type1_Year1931.png)
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/ID8033_Type8_Year1895.png)
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/ID8159_Type8_Year2019.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/ID1001_Type1_Year1931.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/ID8033_Type8_Year1895.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/ID8159_Type8_Year2019.png)
 
 ### 时间片生成
 为了导入AI时的需求，该项目也可以为AI提供时间片的素材，目前还没有制作成完整的批量生成工具，界面也需要进一步美观，其效果如下：
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/1790_1900.png)
-![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/image/1961.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/1790_1900.png)
+![](https://github.com/frozenlalala/Xidian-In-Time/raw/master/images/1961.png)
 
 ## 总结
 目前该开源项目还处于预开源阶段，许多架构和内容尚未完善，今后会尝试将其做成一款更加完备的批量生产素材工具。
